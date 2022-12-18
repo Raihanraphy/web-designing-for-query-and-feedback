@@ -1,0 +1,12 @@
+
+.result_box{
+    width:400px;
+    align-content: stretch;
+    
+}
+body{
+    background-color: snow;
+}
+fieldset{
+    float :inherit;
+}
